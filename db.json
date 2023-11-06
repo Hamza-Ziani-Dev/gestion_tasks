@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "AngularJs 16",
+      "complated": false
+    },
+    {
+      "id": 2,
+      "label": "ReactJS",
+      "complated": true
+    },
+    {
+      "label": "VuesJs",
+      "complated": true,
+      "id": 3
+    },
+    {
+      "label": "Python",
+      "complated": true,
+      "id": 4
+    }
+  ]
+}
